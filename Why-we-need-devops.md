@@ -80,3 +80,6 @@
 ### The Three Ways: Some Patterns
 
 ![PATTERNS](resources/images/patterns.png)
+
+
+[slides](http://www.instantcustomer.com/go/74730)
